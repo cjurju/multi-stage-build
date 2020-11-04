@@ -6,7 +6,7 @@ pipeline {
   stages {
     stage('Build') {
       steps {
-        echo "Hello, this is Cami! Nice to meet you! :)"
+        echo "Hello, this is Camilush! Nice to meet you! :)"
       }
     }
   }
